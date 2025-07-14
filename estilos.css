@@ -38,6 +38,13 @@ h1 {
   background-color: #e91e63;
   color: white;
 }
-
 .ramo.bloqueado {
   background-color: #fce4ec;
+  color: #aaa;
+  border-style: dashed;
+  cursor: not-allowed;
+}
+
+
+---
+
